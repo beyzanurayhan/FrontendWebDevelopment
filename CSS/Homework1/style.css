@@ -1,0 +1,15 @@
+h1 {
+    color:deeppink;
+}
+h2 {
+    color: violet;
+}
+h3 {
+    color: yellow;
+}
+li {
+    list-style-position: inside
+}
+img {
+    width: 300px; height: 300px;
+}
